@@ -1,0 +1,16 @@
+---
+layout:post
+title:不知道什么东西
+
+author:"Techshrimp"
+header-style:text
+catalog:true
+tags:
+-Web
+-Javascript
+
+---
+这是Github的又一个神奇功能，Github Pages。它一个免费快捷的的静态网站托管服务。对比传统方式建站，他有哪些优点的呢？ 
+在传统方式中，首先要租用服务器，服务器上需要运行web程序，还要再购买域名，要配置SSL证书，最后需要配置DNS，将域名解析到与服务器，
+这一套繁琐操作基本就把小白劝退了。
+好消息是有了Github Pages，这些繁琐步骤Github都能自动搞定，只需要简单点几下按钮，10秒就搭建好一个网站。更重要的是它完全免费。
